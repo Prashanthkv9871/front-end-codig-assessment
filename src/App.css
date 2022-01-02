@@ -1,0 +1,48 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+.header{
+  position: fixed;
+  background-color: #e5ebf6;
+  top:0;
+  padding: 5px;
+  padding-left: 15%;
+  width: 100%;
+  z-index: 1;
+}
+.header h6{
+  margin-right: 15px;
+  color: #212529;
+  font-family: 'Nunito', sans-serif;
+}
+
+.header-banner{
+  position: relative;
+  width: 100%;
+  height: 120vh;
+}
+
+.nav{
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  width: 85%;
+}
+
+.nav-text{
+  color:black;
+  font-size:18px;
+  margin-top: 20px;
+  margin-right:10px;
+  font-weight: bolder;
+}
+
+button{
+  background-color: #f59e33;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5%;
+  color: #ffffff;
+  margin-right: 10px;
+}
